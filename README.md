@@ -1,5 +1,5 @@
 # Bioreactor OMI System Code
-In-progress code and GUI for controlling the peristaltic pump for the SEED bioreactor
+In-progress code for the bioreactor OMI system's GUI, pump, clamps, and stage
 
 Peristaltic_pump_clamp_control.ino is the code uploaded to the Arduino
 pump_scan_control is what is run to start the process. This may not work with the interface well yet.
