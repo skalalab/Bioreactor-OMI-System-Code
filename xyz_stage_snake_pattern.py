@@ -44,7 +44,7 @@ def enter_z_pos ():
     #z1 = int(input("enter the top z position"))
    # z_positions.append(z1)
     # z_positions = [0, 0, 4, 4]# positive values entered leads to negative z 
-    z_positions = [0, 0, -4, -4]# positive values entered leads to negative z 
+    z_positions = [0, 0, -4, -4]
     return z_positions
 
 def interpolate_z(x, y, well_length, well_width, z_tl, z_tr, z_bl, z_br): #z's top left, top right, bottom left, bottom right corner
